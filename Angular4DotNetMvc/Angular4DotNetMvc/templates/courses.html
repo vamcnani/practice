@@ -1,0 +1,18 @@
+﻿
+    <h1 class="jumbotron">Courses</h1>
+    <div class="row">
+        <div class="span10">
+            <table class="table table-condensed table-hover">
+                <tr class="table-header-group">
+                    <th>Course</th>
+                    <th>Course Name</th>
+                    <th>Instructor</th>
+                </tr>
+                <tr ng-repeat="course in courses">
+                    <td>{{course.number}}</td>
+                    <td>{{course.name}}</td>
+                    <td>{{course.instructor}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
