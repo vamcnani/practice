@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9b1f571eafc549bd8c199e7ac2a8309f" Name="Complete" ZoomLevel="100">
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.Address" Width="1.5" PointX="0.75" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.Customer" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.CustomerAddress" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.Product" Width="1.5" PointX="6" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.ProductCategory" Width="1.5" PointX="3.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.ProductDescription" Width="1.5" PointX="3.75" PointY="14.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.ProductModel" Width="1.5" PointX="3.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.ProductModelProductDescription" Width="1.5" PointX="6" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.SalesOrderDetail" Width="1.5" PointX="8.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.SalesOrderHeader" Width="1.5" PointX="6" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.SalesOrderHeaderShipping" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.SomeNewTable" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.CustomerView" Width="1.5" PointX="8.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.vGetAllCategory" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.vProductAndDescription" Width="1.5" PointX="10.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.vProductModelCatalogDescription" Width="1.5" PointX="10.75" PointY="6.75" IsExpanded="true" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_CustomerAddress_Address_AddressID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_SalesOrderHeader_Address_BillTo_AddressID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_CustomerAddress_Customer_CustomerID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_SalesOrderHeader_Customer_CustomerID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_Product_ProductCategory_ProductCategoryID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_Product_ProductModel_ProductModelID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_SalesOrderDetail_Product_ProductID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_ProductCategory_ParentProductCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_ProductModelProductDescription_ProductDescription_ProductDescriptionID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_ProductModelProductDescription_ProductModel_ProductModelID" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.TestTable" Width="1.5" PointX="8.375" PointY="13.25" />
+      </Diagram>
+      <Diagram DiagramId="8d2ae9b0a5084700a7ee7b0ab912533b" Name="CustomerView" >
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.Customer" Width="1.5" PointX="1.25" PointY="1.75" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.CustomerAddress" Width="1.5" PointX="3.875" PointY="2.5" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_CustomerAddress_Customer_CustomerID" />
+        <EntityTypeShape EntityType="AdventureWorksSuperLT2012Model.Address" Width="1.5" PointX="3.375" PointY="6" />
+        <AssociationConnector Association="AdventureWorksSuperLT2012Model.FK_CustomerAddress_Address_AddressID" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
