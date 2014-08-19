@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AccountAtAGlance.Repository.AccountAtGlance" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEEAgAACBAAAAAgQAAAAAAAsAAAQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>AccountAtGlance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccountAtAGlance.Repository.AccountRepository" Collapsed="true">
+    <Position X="1" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIACAAAAAAAAAQAAAAABgAAAAAAAAAEABAAA=</HashCode>
+      <FileName>AccountRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AccountAtAGlance.Repository.MarketsAndNewsRepository" Collapsed="true">
+    <Position X="3.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAACAAAAAAAABAAgAAAEAAAAAAAAAABAAAAIAAg=</HashCode>
+      <FileName>MarketsAndNewsRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AccountAtAGlance.Repository.RepositoryBase&lt;C&gt;" Collapsed="true">
+    <Position X="3.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAIAAACQAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>RepositoryBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AccountAtAGlance.Repository.SecurityRepository" Collapsed="true">
+    <Position X="5.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAAAAAAAQAAAAABAAEAAAAAgAIAAAAgAAAAIAAA=</HashCode>
+      <FileName>SecurityRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AccountAtAGlance.Repository.Helpers.DataSimulator" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Helpers\DataSimulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccountAtAGlance.Repository.Helpers.StockEngine" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABAAAAABAAKAAAAEAAAEAEAAAAIAAEAAAAIAA=</HashCode>
+      <FileName>Helpers\StockEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccountAtAGlance.Repository.Migrations.Configuration" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Migrations\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AccountAtAGlance.Repository.IAccountRepository" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAA=</HashCode>
+      <FileName>IAccountRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AccountAtAGlance.Repository.IMarketsAndNewsRepository" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMarketsAndNewsRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AccountAtAGlance.Repository.ISecurityRepository" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAABAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISecurityRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

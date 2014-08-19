@@ -1,0 +1,12 @@
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\MvcSolution.DataLayer.dll.config
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\MvcSolution.DataLayer.dll
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\MvcSolution.DataLayer.pdb
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\EntityFramework.dll
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\MvcSolution.Model.dll
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\MvcSolution.Model.pdb
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\EntityFramework.xml
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\obj\Debug\MvcSolution.DataLayer.csprojResolveAssemblyReference.cache
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\obj\Debug\MvcSolution.DataLayer.dll
+C:\Practice\MVC\MvcSolution\MvcSolution.DataLayer\obj\Debug\MvcSolution.DataLayer.pdb

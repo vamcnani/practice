@@ -1,0 +1,12 @@
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.csprojResolveAssemblyReference.cache
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.dll
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.pdb
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.dll
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll.config
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.dll
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.xml
+C:\Practice\MVC\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.SqlServer.xml

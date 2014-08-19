@@ -1,0 +1,5 @@
+C:\Practice\MVC\MvcSolution\MvcSolution.Model\bin\Debug\MvcSolution.Model.dll
+C:\Practice\MVC\MvcSolution\MvcSolution.Model\bin\Debug\MvcSolution.Model.pdb
+C:\Practice\MVC\MvcSolution\MvcSolution.Model\obj\Debug\MvcSolution.Model.dll
+C:\Practice\MVC\MvcSolution\MvcSolution.Model\obj\Debug\MvcSolution.Model.pdb
+C:\Practice\MVC\MvcSolution\MvcSolution.Model\obj\Debug\MvcSolution.Model.csprojResolveAssemblyReference.cache
