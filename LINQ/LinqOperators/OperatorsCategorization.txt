@@ -1,0 +1,11 @@
+﻿Filtering
+Projecting
+Joining
+Ordering
+Grouping
+Conversions
+Sets
+Aggregtion
+Quantifiers
+Generation
+Element

@@ -1,0 +1,5 @@
+C:\Practice\LINQ\LinqToSql-1\bin\LinqToSql-1.dll
+C:\Practice\LINQ\LinqToSql-1\bin\LinqToSql-1.pdb
+C:\Practice\LINQ\LinqToSql-1\obj\Debug\LinqToSql-1.dll
+C:\Practice\LINQ\LinqToSql-1\obj\Debug\LinqToSql-1.pdb
+C:\Practice\LINQ\LinqToSql-1\obj\Debug\LinqToSql-1.csprojResolveAssemblyReference.cache

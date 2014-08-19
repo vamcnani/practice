@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MovieReviews">
+  <DataContextMoniker Name="/MovieReviewsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8ddb81a2-fe7a-4808-99f7-51d7f94a0771" absoluteBounds="0.5, 2.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/MovieReviewsDataContext/Movie" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b19da36f-9a35-4a2d-baeb-a7f793994e7d" absoluteBounds="0.51499999999999968, 3.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cf45edd6-a377-4f96-b1e3-8d5b3bd64882" absoluteBounds="3, 2.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MovieReviewsDataContext/Review" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f631791-34cf-47e8-9ab9-0015a7b9c841" absoluteBounds="3.015, 2.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 3.31814697265625); (3 : 3.31814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MovieReviewsDataContext/Movie/movy_review" />
+      <nodes>
+        <classShapeMoniker Id="8ddb81a2-fe7a-4808-99f7-51d7f94a0771" />
+        <classShapeMoniker Id="cf45edd6-a377-4f96-b1e3-8d5b3bd64882" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

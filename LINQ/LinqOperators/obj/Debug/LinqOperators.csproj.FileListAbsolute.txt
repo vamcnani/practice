@@ -1,0 +1,6 @@
+C:\Practice\LINQ\LinqOperators\bin\Debug\LinqOperators.exe.config
+C:\Practice\LINQ\LinqOperators\bin\Debug\LinqOperators.exe
+C:\Practice\LINQ\LinqOperators\bin\Debug\LinqOperators.pdb
+C:\Practice\LINQ\LinqOperators\obj\Debug\LinqOperators.exe
+C:\Practice\LINQ\LinqOperators\obj\Debug\LinqOperators.pdb
+C:\Practice\LINQ\LinqOperators\obj\Debug\LinqOperators.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Practice\LINQ\LinqToXml\bin\Debug\LinqToXml.exe.config
+C:\Practice\LINQ\LinqToXml\bin\Debug\LinqToXml.exe
+C:\Practice\LINQ\LinqToXml\bin\Debug\LinqToXml.pdb
+C:\Practice\LINQ\LinqToXml\obj\Debug\LinqToXml.csprojResolveAssemblyReference.cache
+C:\Practice\LINQ\LinqToXml\obj\Debug\LinqToXml.exe
+C:\Practice\LINQ\LinqToXml\obj\Debug\LinqToXml.pdb

@@ -1,0 +1,6 @@
+C:\Practice\LINQ\LinqQueries\bin\Debug\LinqQueries.exe.config
+C:\Practice\LINQ\LinqQueries\bin\Debug\LinqQueries.exe
+C:\Practice\LINQ\LinqQueries\bin\Debug\LinqQueries.pdb
+C:\Practice\LINQ\LinqQueries\obj\Debug\LinqQueries.csprojResolveAssemblyReference.cache
+C:\Practice\LINQ\LinqQueries\obj\Debug\LinqQueries.exe
+C:\Practice\LINQ\LinqQueries\obj\Debug\LinqQueries.pdb

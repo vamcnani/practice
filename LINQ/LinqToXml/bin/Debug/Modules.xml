@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Modules xmlns:ext="http://LearnLinq/Modules/Ext" xmlns="http://LearnLinq/Modules">
+  <Module>Introduction to XML</Module>
+  <Module>Introduction to Linq</Module>
+  <ext:Module>Introduction to Silverlight</ext:Module>
+  <ext:Module>Introduction to MVC</ext:Module>
+</Modules>

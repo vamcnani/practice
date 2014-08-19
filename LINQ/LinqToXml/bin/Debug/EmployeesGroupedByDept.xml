@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Developers>
+    <Employee>Scott</Employee>
+    <Employee>Poonam</Employee>
+    <Employee>Ravi</Employee>
+  </Developers>
+  <Sales>
+    <Employee>Andy</Employee>
+    <Employee>Eric</Employee>
+  </Sales>
+</Employees>

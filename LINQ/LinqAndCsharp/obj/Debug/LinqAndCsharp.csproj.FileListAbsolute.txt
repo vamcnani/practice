@@ -1,0 +1,6 @@
+C:\Practice\LINQ\LinqAndCsharp\bin\Debug\LinqAndCsharp.exe.config
+C:\Practice\LINQ\LinqAndCsharp\obj\Debug\LinqAndCsharp.csprojResolveAssemblyReference.cache
+C:\Practice\LINQ\LinqAndCsharp\bin\Debug\LinqAndCsharp.exe
+C:\Practice\LINQ\LinqAndCsharp\bin\Debug\LinqAndCsharp.pdb
+C:\Practice\LINQ\LinqAndCsharp\obj\Debug\LinqAndCsharp.exe
+C:\Practice\LINQ\LinqAndCsharp\obj\Debug\LinqAndCsharp.pdb
