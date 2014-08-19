@@ -1,0 +1,8 @@
+C:\Practice\WCF\WcfDesignConcepts\Host\bin\Debug\Host.exe.config
+C:\Practice\WCF\WcfDesignConcepts\Host\bin\Debug\Host.exe
+C:\Practice\WCF\WcfDesignConcepts\Host\bin\Debug\Host.pdb
+C:\Practice\WCF\WcfDesignConcepts\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Practice\WCF\WcfDesignConcepts\Host\obj\Debug\Host.exe
+C:\Practice\WCF\WcfDesignConcepts\Host\obj\Debug\Host.pdb
+C:\Practice\WCF\WcfDesignConcepts\Host\bin\Debug\MathServiceLibrary.dll
+C:\Practice\WCF\WcfDesignConcepts\Host\bin\Debug\MathServiceLibrary.pdb

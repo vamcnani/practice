@@ -1,0 +1,5 @@
+C:\Practice\WCF\WcfFundamentals\Client\bin\Debug\Client.exe.config
+C:\Practice\WCF\WcfFundamentals\Client\bin\Debug\Client.exe
+C:\Practice\WCF\WcfFundamentals\Client\bin\Debug\Client.pdb
+C:\Practice\WCF\WcfFundamentals\Client\obj\Debug\Client.exe
+C:\Practice\WCF\WcfFundamentals\Client\obj\Debug\Client.pdb

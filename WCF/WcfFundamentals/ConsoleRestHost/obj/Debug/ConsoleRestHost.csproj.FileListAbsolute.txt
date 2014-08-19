@@ -1,0 +1,8 @@
+C:\Practice\WCF\WcfFundamentals\ConsoleRestHost\obj\Debug\ConsoleRestHost.csprojResolveAssemblyReference.cache
+C:\Practice\WCF\WcfFundamentals\ConsoleRestHost\bin\Debug\ConsoleRestHost.exe.config
+C:\Practice\WCF\WcfFundamentals\ConsoleRestHost\bin\Debug\ConsoleRestHost.exe
+C:\Practice\WCF\WcfFundamentals\ConsoleRestHost\bin\Debug\ConsoleRestHost.pdb
+C:\Practice\WCF\WcfFundamentals\ConsoleRestHost\bin\Debug\EvalRestServiceLibrary.dll
+C:\Practice\WCF\WcfFundamentals\ConsoleRestHost\bin\Debug\EvalRestServiceLibrary.pdb
+C:\Practice\WCF\WcfFundamentals\ConsoleRestHost\obj\Debug\ConsoleRestHost.exe
+C:\Practice\WCF\WcfFundamentals\ConsoleRestHost\obj\Debug\ConsoleRestHost.pdb

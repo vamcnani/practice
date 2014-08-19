@@ -1,0 +1,5 @@
+C:\Practice\WCF\WcfDesignConcepts\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+C:\Practice\WCF\WcfDesignConcepts\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+C:\Practice\WCF\WcfDesignConcepts\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+C:\Practice\WCF\WcfDesignConcepts\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+C:\Practice\WCF\WcfDesignConcepts\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb

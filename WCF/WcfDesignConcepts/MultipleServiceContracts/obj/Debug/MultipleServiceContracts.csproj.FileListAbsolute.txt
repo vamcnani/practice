@@ -1,0 +1,6 @@
+C:\Practice\WCF\WcfDesignConcepts\MultipleServiceContracts\bin\Debug\MultipleServiceContracts.dll.config
+C:\Practice\WCF\WcfDesignConcepts\MultipleServiceContracts\bin\Debug\MultipleServiceContracts.dll
+C:\Practice\WCF\WcfDesignConcepts\MultipleServiceContracts\bin\Debug\MultipleServiceContracts.pdb
+C:\Practice\WCF\WcfDesignConcepts\MultipleServiceContracts\obj\Debug\MultipleServiceContracts.csprojResolveAssemblyReference.cache
+C:\Practice\WCF\WcfDesignConcepts\MultipleServiceContracts\obj\Debug\MultipleServiceContracts.dll
+C:\Practice\WCF\WcfDesignConcepts\MultipleServiceContracts\obj\Debug\MultipleServiceContracts.pdb

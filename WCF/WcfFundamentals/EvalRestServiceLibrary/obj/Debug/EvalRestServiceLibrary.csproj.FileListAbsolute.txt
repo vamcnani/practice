@@ -1,0 +1,5 @@
+C:\Practice\WCF\WcfFundamentals\EvalRestServiceLibrary\bin\Debug\EvalRestServiceLibrary.dll.config
+C:\Practice\WCF\WcfFundamentals\EvalRestServiceLibrary\bin\Debug\EvalRestServiceLibrary.dll
+C:\Practice\WCF\WcfFundamentals\EvalRestServiceLibrary\bin\Debug\EvalRestServiceLibrary.pdb
+C:\Practice\WCF\WcfFundamentals\EvalRestServiceLibrary\obj\Debug\EvalRestServiceLibrary.dll
+C:\Practice\WCF\WcfFundamentals\EvalRestServiceLibrary\obj\Debug\EvalRestServiceLibrary.pdb

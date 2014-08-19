@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleServiceContracts", "MultipleServiceContracts\MultipleServiceContracts.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultipleServiceContracts", "MultipleServiceContracts", "{0D952182-12B5-4D8D-9E89-176D3DDC287F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleMath", "SimpleMath", "{2177EBC6-AC12-442D-A33B-51A1B1DD6AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathServiceLibrary", "MathServiceLibrary\MathServiceLibrary.csproj", "{F8857B17-210C-4C7E-94E8-5DB6B285191A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{4A2A58EF-6154-4D98-9E19-71073240E166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{B25BAE6C-BC40-45CD-A7F6-2249F3D63325}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F8857B17-210C-4C7E-94E8-5DB6B285191A} = {F8857B17-210C-4C7E-94E8-5DB6B285191A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8857B17-210C-4C7E-94E8-5DB6B285191A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8857B17-210C-4C7E-94E8-5DB6B285191A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8857B17-210C-4C7E-94E8-5DB6B285191A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8857B17-210C-4C7E-94E8-5DB6B285191A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2A58EF-6154-4D98-9E19-71073240E166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2A58EF-6154-4D98-9E19-71073240E166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2A58EF-6154-4D98-9E19-71073240E166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2A58EF-6154-4D98-9E19-71073240E166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25BAE6C-BC40-45CD-A7F6-2249F3D63325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25BAE6C-BC40-45CD-A7F6-2249F3D63325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25BAE6C-BC40-45CD-A7F6-2249F3D63325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25BAE6C-BC40-45CD-A7F6-2249F3D63325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15B3E0D2-6217-493A-A690-158C497F5318} = {0D952182-12B5-4D8D-9E89-176D3DDC287F}
+		{F8857B17-210C-4C7E-94E8-5DB6B285191A} = {2177EBC6-AC12-442D-A33B-51A1B1DD6AA2}
+		{4A2A58EF-6154-4D98-9E19-71073240E166} = {2177EBC6-AC12-442D-A33B-51A1B1DD6AA2}
+		{B25BAE6C-BC40-45CD-A7F6-2249F3D63325} = {2177EBC6-AC12-442D-A33B-51A1B1DD6AA2}
+	EndGlobalSection
+EndGlobal
