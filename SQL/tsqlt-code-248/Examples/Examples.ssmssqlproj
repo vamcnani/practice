@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Examples">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="Dev_R2:sqlity.net">
+          <Created>2013-11-16T22:09:10.9008141-05:00</Created>
+          <Type>SQL</Type>
+          <Server>Dev_R2</Server>
+          <UserName>sqlity.net</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>tSQLt_Example</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="TestCaseTemplate.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TestCaseTemplate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TestThatExamplesAreDeployed.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TestThatExamplesAreDeployed.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tests.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:Dev_R2:False:sqlity.net</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>Dev_R2</AssociatedConnSrvName>
+          <AssociatedConnUserName>sqlity.net</AssociatedConnUserName>
+          <FullPath>Tests.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Source.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:Dev_R2:False:sqlity.net</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>Dev_R2</AssociatedConnSrvName>
+          <AssociatedConnUserName>sqlity.net</AssociatedConnUserName>
+          <FullPath>Source.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:Dev_R2:False:sqlity.net</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>Dev_R2</AssociatedConnSrvName>
+          <AssociatedConnUserName>sqlity.net</AssociatedConnUserName>
+          <FullPath>CreateDatabase.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="BuildOrder.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>BuildOrder.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Example_Screenshot.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Example_Screenshot.jpg</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
